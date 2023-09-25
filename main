@@ -1,0 +1,6 @@
+mkdir sample-project
+cd sample-project
+git init
+echo "Hello, World!" > README.md
+git add README.md
+git commit -m "Initial commit"
